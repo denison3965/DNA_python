@@ -12,6 +12,7 @@ nucleotides. We will pass one of these files and a database to the program, then
   
   sequence;
     AAGGTAAGTTTAGAATATAAAAGGTGAGTTAAATAGAATAGGTTAAAATTAAAGGAGATCAGATCAGATCAGATCTATCTATCTATCTATCTATCAGAAAAGAGTAAATA
+    
    CLI;
     `python dna.py databases/small.csv sequences/1.txt`
     
