@@ -1,4 +1,4 @@
-# DNA_python
+# 🐍 🩸 DNA_python
 
 
 ## About this project
